@@ -1,0 +1,24 @@
+{
+  "name": "simple360player",
+  "version": "1.0.0",
+  "description": "a simple HTML5 360 video player",
+  "main": "360-player.js",
+  "dependencies": {
+    "browserify": "^12.0.1",
+    "three.js": "^0.73.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbentaieb/simple360Player.git"
+  },
+  "author": "Guillaume Bentaieb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbentaieb/simple360Player/issues"
+  },
+  "homepage": "https://github.com/gbentaieb/simple360Player#readme"
+}
