@@ -1,4 +1,4 @@
-WARNING: this project is a really simple demo of how to build a 360 video player using three.js.
+WARNING: this project is a really simple demo on how to build a 360 video player using three.js.
 If you want to use a comprehensive npm package that provides tools to integrate 360 players in your project, check out this project: https://github.com/gbentaieb/simple-360-player
 
 # simple360Player
